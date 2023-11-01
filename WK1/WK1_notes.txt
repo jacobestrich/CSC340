@@ -1,0 +1,16 @@
+Data Structures - Algorithms:
+
+Day 1:
+
+Data Structures and ADT - Brief:
+
+Abstract Data Type -
+	Implementation is a Data Structure
+
+Math - 
+	Know general ordering!
+As n grows, all classese grow. 
+
+	Big O is growth rate:
+		O(1) - Constant (read first word of book)
+		
