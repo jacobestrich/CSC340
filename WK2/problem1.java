@@ -1,3 +1,7 @@
+// Jacob Estrich - Week 2 Problem 1
+// The following code sums the digit in a number
+// What is its big O time?
+
 // Create a public class for the problem1.java file.
 public class problem1  
 {
