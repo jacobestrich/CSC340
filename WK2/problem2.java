@@ -1,3 +1,6 @@
+// Jacob Estrich - Week 2 Problem 2
+// Worst case is n^2
+
 public class problem2 
 {
     public static void main(String[] args) 
