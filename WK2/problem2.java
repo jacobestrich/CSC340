@@ -71,6 +71,6 @@ public class problem2
 // You would then do a linear or sequential searching algorithm to determine what floor the second egg would break in.
 // If the first egg does not break at floor 50, you would then repeate the binary algorithm  to find the middle between floors 50 through 100 which is 75.
 // This process would continue until the first egg breaks. Where the first egg breaks, you will have to switch to a sequential algorithm to iterate the remaining floors to find the break floor.
-
+// The running time for this would be ....
 
 
